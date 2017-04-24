@@ -1,0 +1,12 @@
+edgard1.txt
+edgard27
+edgard2.txt
+edgard3.txt
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-edgard.txt
+README.md

@@ -1,0 +1,6 @@
+./pasta2/2.txt
+./edgard3.txt
+./edgard1.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
+./edgard2.txt
